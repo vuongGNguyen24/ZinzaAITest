@@ -1,0 +1,42 @@
+[
+    {
+        "order_id": "A01",
+        "address": "430 Main St",
+        "products": [
+            "Pen",
+            "Notebook"
+        ]
+    },
+    {
+        "order_id": "A02",
+        "address": "430 Main St",
+        "products": [
+            "Pencil",
+            "Pen",
+            "Sharpener"
+        ]
+    },
+    {
+        "order_id": "A03",
+        "address": "430 Main St",
+        "products": [
+            "Ruler",
+            "Book",
+            "Notebook"
+        ]
+    },
+    {
+        "order_id": "A04",
+        "address": "430 Main St",
+        "products": [
+            "Eraser"
+        ]
+    },
+    {
+        "order_id": "A05",
+        "address": "430 Main St",
+        "products": [
+            "Sharpener"
+        ]
+    }
+]

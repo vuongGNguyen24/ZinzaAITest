@@ -1,0 +1,38 @@
+[
+    {
+        "order_id": "A01",
+        "address": "123 Main St",
+        "products": [
+            "Pen",
+            "Notebook"
+        ]
+    },
+    {
+        "order_id": "A02",
+        "address": "123 Main St",
+        "products": [
+            "Pencil"
+        ]
+    },
+    {
+        "order_id": "A03",
+        "address": "456 Oak St",
+        "products": [
+            "Ruler"
+        ]
+    },
+    {
+        "order_id": "A04",
+        "address": "789 Pine St",
+        "products": [
+            "Eraser"
+        ]
+    },
+    {
+        "order_id": "A05",
+        "address": "456 Oak St",
+        "products": [
+            "Sharpener"
+        ]
+    }
+]

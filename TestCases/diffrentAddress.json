@@ -1,0 +1,44 @@
+[
+    {
+        "order_id": "A01",
+        "address": "430 Main St",
+        "products": [
+            "Pen",
+            "Pencil"
+        ]
+    },
+    {
+        "order_id": "A02",
+        "address": "329 Oak St",
+        "products": [
+            "Pencil",
+            "Notebook",
+            "Sharpener"
+        ]
+    },
+    {
+        "order_id": "A03",
+        "address": "501 Main St",
+        "products": [
+            "Ruler",
+            "Book",
+            "Notebook"
+        ]
+    },
+    {
+        "order_id": "A04",
+        "address": "110 Pak St",
+        "products": [
+            "Eraser",
+            "Sharpener",
+            "Pencil"
+        ]
+    },
+    {
+        "order_id": "A05",
+        "address": "1027 Pak St",
+        "products": [
+            "Sharpener"
+        ]
+    }
+]
